@@ -66,8 +66,8 @@ Representação visual de sistemas complexos no Draw.io.
 ## 👩‍💻 Autora
 
 Bruna Stefany
-📘 Projeto desenvolvido para o curso de AWS Cloud Fundamentals
-💡 “Transformando ideias em arquiteturas escaláveis na nuvem.”
+Projeto desenvolvido para o curso de AWS Cloud Fundamentals
+“Transformando ideias em arquiteturas escaláveis na nuvem.”
 
 ---
 
