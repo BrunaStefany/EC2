@@ -1,12 +1,9 @@
+<h1 align="center">☁️ Arquitetura AWS para Auto Processamento</h1>
+<p align="center">
+  <b>Modelagem de arquitetura em nuvem com serviços AWS e Draw.io</b><br>
+  <i>Projeto desenvolvido para o curso de AWS Cloud Fundamentals</i>
+</p>
 
----
-
-# ☁️ Arquitetura AWS para Auto Processamento
-
-## 🧩 Descrição do Projeto
-
-Este projeto tem como objetivo **modelar e documentar uma arquitetura em nuvem AWS voltada para auto processamento de dados.
-A modelagem foi realizada utilizando a ferramenta [diagrams.net (Draw.io)](https://app.diagrams.net/), com o foco em representar visualmente os principais serviços AWS e fluxos de dados automatizados envolvidos em uma solução escalável e segura.
 
 ---
 
@@ -38,7 +35,8 @@ IAM– Controle de acesso e segurança.
 2. Um evento S3 aciona uma função Lambda para processar ou transformar os dados.
 3. Os resultados são armazenados em outro bucket S3 (Processed Data).
 4. Logs e métricas são enviados ao CloudWatch.
-5. Notificações de sucesso ou erro são enviadas via SNS.
+5. Notificações de sucesso ou erro são enviadas via SNS## 🏗️ Diagrama da Arquitetura
+
 
 ---
 
